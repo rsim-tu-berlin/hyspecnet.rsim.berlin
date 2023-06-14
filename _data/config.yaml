@@ -1,0 +1,15 @@
+name: HySpecNet-11K
+title: Large-Scale Hyperspectral Benchmark Dataset
+email: contact@bigearth.eu
+
+menu:
+  - title: About
+    link: "#about-hyspecnet-11k"
+  - title: Downloads
+    link: "#downloads"
+  - title: FAQ
+    link: "#faq"
+  - title: License
+    link: "#license"
+  - title: Contact
+    link: "#contact"

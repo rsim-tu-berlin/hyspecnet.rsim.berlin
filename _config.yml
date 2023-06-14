@@ -1,0 +1,8 @@
+# See: https://jekyllrb.com/docs/configuration/
+title: HySpecNet - Large-Scale Hyperspectral Benchmark Datasets
+description: >- # this means to ignore newlines until "baseurl:"
+  The HySpecNet datasets are constructed by the Remote Sensing Image Analysis (RSiM) group
+  at the Technische Universität Berlin (TU Berlin). This work is supported by the European
+  Research Council (ERC) through the ERC-2017-STG BigEarth Project under Grant 759764.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://hyspecnet.rsim.berlin" # the base hostname & protocol for your site, e.g. http://example.com
