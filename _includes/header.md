@@ -73,3 +73,48 @@
         </div>
       </div>
     </nav>
+    <section class="patches justify-items-center">
+      <div class="container">
+        <div class="row">
+        {% for i in (1..20) %}
+            <div class="col m-0 p-0">
+                <img src="{{ site.url }}/../assets/images/thumbnails/{{ i }}.jpg">
+            </div>
+        {% endfor %}
+        </div>
+      </div>
+    </section>
+    <section class="logos">
+      <div class="container">
+        <div class="row">
+            <div class="col">
+                <div class="text-center mx-auto mb-5 mb-lg-0 mb-lg-3">
+                    <a href="https://www.tu-berlin.de" target="_blank">
+                        <img src="{{ site.url }}/assets/images/tu-logo.svg" class="img-responsive center-block" style="height: 50px">
+                    </a>
+                </div>
+            </div>
+            <div class="col">
+                <div class="text-center mx-auto mb-5 mb-lg-0 mb-lg-3">
+                    <a href="http://bifold.berlin" target="_blank">
+                        <img src="{{ site.url }}/assets/images/BIFOLD.svg" class="img-responsive center-block" style="height: 50px">
+                    </a>
+                </div>
+            </div>
+            <div class="col">
+                <div class="text-center mx-auto mb-5 mb-lg-0 mb-lg-3">
+                    <a href="https://rsim.berlin" target="_blank">
+                        <img src="{{ site.url }}/assets/images/rsim-logo.png" class="img-responsive center-block" style="height: 50px">
+                    </a>
+                </div>
+            </div>
+            <div class="col">
+                <div class="text-center mx-auto mb-5 mb-lg-0 mb-lg-3">
+                    <a href="http://www.bigearth.eu" target="_blank">
+                        <img src="{{ site.url }}/assets/images/BigEarth.png" class="img-responsive center-block" style="height: 50px">
+                    </a>
+                </div>
+            </div>
+        </div>
+      </div>
+    </section>

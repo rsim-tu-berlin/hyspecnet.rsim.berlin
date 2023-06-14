@@ -73,6 +73,11 @@ h5 {
   color: #ea104e;
 }
 
+.hyspec {
+  color: #ea104e;
+  font-weight: 600;
+}
+
 /*--------------------------------------------------------------
   # Top Bar
   --------------------------------------------------------------*/
@@ -144,11 +149,13 @@ h5 {
 
 .navbar li {
   position: relative;
+  padding: 10px;
 }
 
 .navbar > ul > li {
   white-space: nowrap;
   padding: 10px 0 10px 28px;
+  margin: 40px;
 }
 
 .navbar a,
@@ -157,9 +164,9 @@ h5 {
   align-items: center;
   justify-content: space-between;
   padding: 0 3px;
-  font-size: 15px;
+  font-size: 18px;
   font-weight: 600;
-  color: #222222;
+  color: #ea104e;
   white-space: nowrap;
   transition: 0.3s;
   position: relative;
@@ -171,7 +178,7 @@ h5 {
   line-height: 0;
   margin-left: 5px;
 }
-*/ .navbar > ul > li > a:before {
+.navbar > ul > li > a:before {
   content: "";
   position: absolute;
   width: 100%;
@@ -282,9 +289,54 @@ h5 {
   padding-bottom: 50px;
 }
 
+.faq {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.faq .accordion-button strong {
+  color: #ea104e;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
 .license {
   padding-top: 10px;
   padding-bottom: 30px;
+}
+
+pre {
+  background-color: #f8f9fa;
+  border-radius: 5px;
+  padding: 10px;
+  margin-top: 10px;
+  overflow-x: auto;
+}
+
+blockquote {
+  background-color: #f8f9fa;
+  border-left: 5px solid #ea104e;
+  padding: 10px 20px;
+  margin-top: 10px;
+}
+
+.card.downloads {
+  background-color: #f8f9fa;
+  border-radius: 5px;
+  margin-top: 10px;
+  width: 50%;
+}
+
+.lead {
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 1.6;
+  margin-left: 0px;
+}
+
+.card i {
+  font-size: 30px;
+  color: #ea104e;
 }
 
 @media (max-width: 720px) {
@@ -304,5 +356,13 @@ h5 {
   .patches img {
     width: 40px;
     margin-bottom: 2px;
+  }
+
+  .card {
+    width: 90%;
+  }
+
+  .card i {
+    font-size: 14px;
   }
 }
