@@ -44,13 +44,13 @@ For further details about HySpecNet-11K, please see our paper:
                     <div class="col-lg-6 col-md-4 col-sm2">
                         <p class="card-text">
                             <i class="fas fa-download mb-2"></i>
-                            Download <a href="https://hyspecnet.rsim.berlin">HySpecNet-11K</a>
+                            <a href="https://hyspecnet.rsim.berlin">HySpecNet-11K Download</a>
                         </p>
                     </div>
                     <div class="col-lg-6 col-md-4 col-sm2">
                         <p class="card-text">
                             <i class="fas fa-newspaper  mb-2"></i>
-                            <a href="{{ site.url }}/hyspecnet-11k-description/">Description of HySpecNet-11K</a>
+                            <a href="{{ site.url }}/hyspecnet-11k-description/">HySpecNet-11K Description</a>
                         </p>
                     </div>
                 </div>
