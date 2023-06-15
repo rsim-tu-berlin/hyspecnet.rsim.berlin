@@ -4,39 +4,39 @@ title: Hyspecnet
 permalink: /
 ---
 
-## About HySpecNet-11K
+## About HySpecNet-11k
 
-The HySpecNet-11K dataset is constructed by the <a href="https://rsim.berlin" target="_blank">Remote Sensing Image Analysis (RSiM)</a> group at <a href="https://tu.berlin" target="_blank">TU Berlin</a> and the Big Data Analytics in Earth Observation group at the <a href="https://bifold.berlin" target="_blank">Berlin Institute for the Foundations of Learning and Data (BIFOLD)</a>.
+The HySpecNet-11k dataset is constructed by the <a href="https://rsim.berlin" target="_blank">Remote Sensing Image Analysis (RSiM)</a> group at <a href="https://tu.berlin" target="_blank">TU Berlin</a> and the Big Data Analytics in Earth Observation group at the <a href="https://bifold.berlin" target="_blank">Berlin Institute for the Foundations of Learning and Data (BIFOLD)</a>.
 
-HySpecNet-11K is a large-scale hyperspectral benchmark dataset made up of 11,483 nonoverlapping image patches acquired by the <a href="https://www.enmap.org" target="_blank">EnMAP satellite</a>. Each patch is a portion of 128 × 128 pixels with 224 spectral bands and with a ground sample distance of 30 m.
+HySpecNet-11k is a large-scale hyperspectral benchmark dataset made up of 11,483 nonoverlapping image patches acquired by the <a href="https://www.enmap.org" target="_blank">EnMAP satellite</a>. Each patch is a portion of 128 × 128 pixels with 224 spectral bands and with a ground sample distance of 30 m.
 
 <p class="lead">
 <i class="fas fa-info-circle hyspec"></i>
-To construct HySpecNet-11K, a total of 250 EnMAP tiles acquired during the routine operation phase between 2 November 2022 and 9 November 2022 were considered. The considered tiles are associated with less than 10% cloud and snow cover. The tiles were radiometrically, geometrically and atmospherically corrected (L2A water & land product). Then, the tiles were divided into nonoverlapping image patches. The cropped patches at the borders of the tiles were eliminated. As a result,  more than 45 patches per tile are obtained, resulting in 11,483 patches for the full dataset.
+To construct HySpecNet-11k, a total of 250 EnMAP tiles acquired during the routine operation phase between 2 November 2022 and 9 November 2022 were considered. The considered tiles are associated with less than 10% cloud and snow cover. The tiles were radiometrically, geometrically and atmospherically corrected (L2A water & land product). Then, the tiles were divided into nonoverlapping image patches. The cropped patches at the borders of the tiles were eliminated. As a result,  more than 45 patches per tile are obtained, resulting in 11,483 patches for the full dataset.
 </p>
 <p class="lead">
 <i class="fas fa-info-circle hyspec"></i>
 We provide predefined splits obtained by randomly dividing HySpecNet into: i) a training set that includes 70% of the patches, ii) a validation set that includes 20% of the patches, and iii) a test set that includes 10% of the patches. Depending on the way that we used for splitting the dataset, we define two different splits: i) an easy split, where patches from the same tile can be present in different sets (patchwise splitting); and ii) a hard split, where all patches from one tile belong to the same set (tilewise splitting).
 </p>
 
-For further details about HySpecNet-11K, please see our paper:
+For further details about HySpecNet-11k, please see our paper:
 
 <blockquote>
-    M. H. P. Fuchs and B. Demіr, "<a href="https://arxiv.org/abs/2306.00385">HySpecNet-11K: A Large-Scale Hyperspectral Dataset for Benchmarking Learning-Based Hyperspectral Image Compression Methods</a>", IEEE International Geoscience and Remote Sensing Symposium, Pasadena, California, 2023.
+    M. H. P. Fuchs and B. Demіr, "<a href="https://arxiv.org/abs/2306.00385">HySpecNet-11k: A Large-Scale Hyperspectral Dataset for Benchmarking Learning-Based Hyperspectral Image Compression Methods</a>", IEEE International Geoscience and Remote Sensing Symposium, Pasadena, California, 2023.
 </blockquote>
 
 <section class="download">
     <h2 id="downloads">Downloads</h2>
     <p>
-    If you use HySpecNet-11K in your research, please cite our paper:
+    If you use HySpecNet-11k in your research, please cite our paper:
     </p>
     <blockquote>
-        M. H. P. Fuchs and B. Demіr, "<a href="https://arxiv.org/abs/2306.00385">HySpecNet-11K: A Large-Scale Hyperspectral Dataset for Benchmarking Learning-Based Hyperspectral Image Compression Methods</a>", IEEE International Geoscience and Remote Sensing Symposium, Pasadena, California, 2023.
+        M. H. P. Fuchs and B. Demіr, "<a href="https://arxiv.org/abs/2306.00385">HySpecNet-11k: A Large-Scale Hyperspectral Dataset for Benchmarking Learning-Based Hyperspectral Image Compression Methods</a>", IEEE International Geoscience and Remote Sensing Symposium, Pasadena, California, 2023.
     </blockquote>
     <div class="h-100 d-flex align-items-center justify-content-center">
         <div class="card downloads">
             <div class="card-header text-center">
-                <h5 class="card-title">HySpecNet-11K</h5>
+                <h5 class="card-title">HySpecNet-11k</h5>
             </div>
             <div class="card-body">
             <!-- Grid -->
@@ -44,13 +44,13 @@ For further details about HySpecNet-11K, please see our paper:
                     <div class="col-lg-6 col-md-4 col-sm2">
                         <p class="card-text">
                             <i class="fas fa-download mb-2"></i>
-                            <a href="https://hyspecnet.rsim.berlin">HySpecNet-11K Download</a>
+                            <a href="https://hyspecnet.rsim.berlin">HySpecNet-11k Download</a>
                         </p>
                     </div>
                     <div class="col-lg-6 col-md-4 col-sm2">
                         <p class="card-text">
                             <i class="fas fa-newspaper  mb-2"></i>
-                            <a href="{{ site.url }}/hyspecnet-11k-description/">HySpecNet-11K Description</a>
+                            <a href="{{ site.url }}/hyspecnet-11k-description/">HySpecNet-11k Description</a>
                         </p>
                     </div>
                 </div>
@@ -131,6 +131,6 @@ For further details about HySpecNet-11K, please see our paper:
 </section>
 
 <section class="license text-center" id="license">
-    The HySpecNet-11K dataset is licensed under <a href="https://creativecommons.org/publicdomain/zero/1.0/" >CC0 1.0 Universal (CC0 1.0)
+    The HySpecNet-11k dataset is licensed under <a href="https://creativecommons.org/publicdomain/zero/1.0/" >CC0 1.0 Universal (CC0 1.0)
 Public Domain Dedication</a>.
 </section>
