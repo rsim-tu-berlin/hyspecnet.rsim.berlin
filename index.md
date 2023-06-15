@@ -40,7 +40,7 @@ For further details about HySpecNet-11K, please see our paper:
             </div>
             <div class="card-body">
             <!-- Grid -->
-                <div class="row py-4">
+                <div class="row">
                     <div class="col-lg-6 col-md-4 col-sm2">
                         <p class="card-text">
                             <i class="fas fa-download mb-2"></i>
@@ -54,7 +54,7 @@ For further details about HySpecNet-11K, please see our paper:
                         </p>
                     </div>
                 </div>
-                <div class="row py-4">
+                <div class="row">
                     <div class="col-lg-6 col-md-4 col-sm2">
                         <p class="card-text">
                             <i class="fas fa-tools  mb-2"></i>

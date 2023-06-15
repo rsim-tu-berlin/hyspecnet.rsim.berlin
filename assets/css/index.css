@@ -327,6 +327,10 @@ blockquote {
   width: 50%;
 }
 
+.card.downloads .row {
+  padding: 20px;
+}
+
 .lead {
   font-size: 16px;
   font-weight: 300;
@@ -358,8 +362,12 @@ blockquote {
     margin-bottom: 2px;
   }
 
-  .card {
+  .card.downloads {
     width: 90%;
+  }
+
+  .card.downloads .row {
+    padding: 5px;
   }
 
   .card i {
