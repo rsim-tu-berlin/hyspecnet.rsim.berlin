@@ -6,15 +6,15 @@ permalink: /hyspecnet-11k-description/
 
 # HySpecNet-11k Description
 
-The HySpecNet-11K dataset is constructed by the [Remote Sensing Image Analysis (RSiM)](https://rsim.berlin) group at [TU Berlin](https://tu.berlin) and the Big Data Analytics in Earth Observation group at the [Berlin Institute for the Foundations of Learning and Data (BIFOLD)](https://bifold.berlin).
+The HySpecNet-11k dataset is constructed by the [Remote Sensing Image Analysis (RSiM)](https://rsim.berlin) group at [TU Berlin](https://tu.berlin) and the Big Data Analytics in Earth Observation group at the [Berlin Institute for the Foundations of Learning and Data (BIFOLD)](https://bifold.berlin).
 
-HySpecNet-11K is a large-scale hyperspectral benchmark dataset made up of 11,483 nonoverlapping image patches acquired by the [EnMAP satellite](https://www.enmap.org). Each patch is a portion of 128 × 128 pixels with 224 spectral bands and with a ground sample distance of 30 m.
+HySpecNet-11k is a large-scale hyperspectral benchmark dataset made up of 11,483 nonoverlapping image patches acquired by the [EnMAP satellite](https://www.enmap.org). Each patch is a portion of 128 × 128 pixels with 224 spectral bands and with a ground sample distance of 30 m.
 
-To construct HySpecNet-11K, a total of 250 EnMAP tiles acquired during the routine operation phase between 2 November 2022 and 9 November 2022 were considered. The considered tiles are associated with less than 10% cloud and snow cover. The tiles were radiometrically, geometrically and atmospherically corrected (L2A water & land product). Then, the tiles were divided into nonoverlapping image patches. The cropped patches at the borders of the tiles were eliminated. As a result, more than 45 patches per tile are obtained, resulting in 11,483 patches for the full dataset.
+To construct HySpecNet-11k, a total of 250 EnMAP tiles acquired during the routine operation phase between 2 November 2022 and 9 November 2022 were considered. The considered tiles are associated with less than 10% cloud and snow cover. The tiles were radiometrically, geometrically and atmospherically corrected (L2A water & land product). Then, the tiles were divided into nonoverlapping image patches. The cropped patches at the borders of the tiles were eliminated. As a result, more than 45 patches per tile are obtained, resulting in 11,483 patches for the full dataset.
 
 We provide predefined splits obtained by randomly dividing HySpecNet into: i) a training set that includes 70% of the patches, ii) a validation set that includes 20% of the patches, and iii) a test set that includes 10% of the patches. Depending on the way that we used for splitting the dataset, we define two different splits: i) an easy split, where patches from the same tile can be present in different sets (patchwise splitting); and ii) a hard split, where all patches from one tile belong to the same set (tilewise splitting).
 
-For further details about HySpecNet-11K, please see our paper:
+For further details about HySpecNet-11k, please see our paper:
 
 > M. H. P. Fuchs and B. Demіr, "[HySpecNet-11k: A Large-Scale Hyperspectral Dataset for Benchmarking Learning-Based Hyperspectral Image Compression Methods](https://arxiv.org/abs/2306.00385)", IEEE International Geoscience and Remote Sensing Symposium, Pasadena, California, 2023.
 
