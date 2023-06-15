@@ -13,7 +13,7 @@ body {
   /* Set the fixed height of the footer here */
   height: 100px;
   line-height: 100px; /* Vertically center the text there */
-  background-color: #ea104e;
+  background-color: #070784;
   color: #fff;
   font-size: 14px;
 }
@@ -45,7 +45,7 @@ h1.logo a {
   font-weight: 200;
   letter-spacing: 2px;
   margin-bottom: 0;
-  color: #ea104e;
+  color: #070784;
 }
 
 blockquote {
@@ -70,11 +70,11 @@ h2,
 h3,
 h4,
 h5 {
-  color: #ea104e;
+  color: #070784;
 }
 
 .hyspec {
-  color: #ea104e;
+  color: #070784;
   font-weight: 600;
 }
 
@@ -82,7 +82,7 @@ h5 {
   # Top Bar
   --------------------------------------------------------------*/
 #topbar {
-  background: #ea104e;
+  background: #070784;
   height: 50px;
   font-size: 14px;
   transition: all 0.5s;
@@ -166,7 +166,7 @@ h5 {
   padding: 0 3px;
   font-size: 18px;
   font-weight: 600;
-  color: #ea104e;
+  color: #070784;
   white-space: nowrap;
   transition: 0.3s;
   position: relative;
@@ -185,7 +185,7 @@ h5 {
   height: 2px;
   bottom: -6px;
   left: 0;
-  background-color: #ea104e;
+  background-color: #070784;
   visibility: hidden;
   width: 0px;
   transition: all 0.3s ease-in-out 0s;
@@ -295,7 +295,7 @@ h5 {
 }
 
 .faq .accordion-button strong {
-  color: #ea104e;
+  color: #070784;
   padding-left: 4px;
   padding-right: 4px;
 }
@@ -315,7 +315,7 @@ pre {
 
 blockquote {
   background-color: #f8f9fa;
-  border-left: 5px solid #ea104e;
+  border-left: 5px solid #070784;
   padding: 10px 20px;
   margin-top: 10px;
 }
@@ -340,7 +340,11 @@ blockquote {
 
 .card i {
   font-size: 30px;
-  color: #ea104e;
+  color: #070784;
+}
+
+.card-header {
+  background-color: #e1e1e1;
 }
 
 @media (max-width: 720px) {
