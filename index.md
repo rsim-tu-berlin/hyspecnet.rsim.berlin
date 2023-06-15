@@ -103,6 +103,18 @@ For further details about HySpecNet-11K, please see our paper:
             </div>
         </div>
         <div class="accordion-item">
+            <h2 class="accordion-header" id="headingTwo">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                Which types of preprocessing are applied when generating the &quot;*-DATA.npy&quot; files?
+            </button>
+            </h2>
+            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                In the <code class="language-bash">*-DATA.npy</code> files the number of bands is reduced from 224 to 202 by removing bands [127 – 141] and [161 – 167] that are affected by strong water vapor absorption. The data is clipped and rescaled to the range [0 – 1] using min-max normalization. Furthermore, the data is converted to float32.
+            </div>
+            </div>
+        </div>
+        <div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                 Is there any hyperspectral image band affected by the strong water vapor absorption in this dataset?
