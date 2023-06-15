@@ -80,7 +80,7 @@ For further details about HySpecNet-11K, please see our paper:
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingOne">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                How do I unpack the <code class="language-bash">hyspecnet-11k.tar.gz</code> file?
+                How do I unpack the &quot;hyspecnet-11k.tar.gz&quot; file?
             </button>
             </h2>
             <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
@@ -93,7 +93,7 @@ For further details about HySpecNet-11K, please see our paper:
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingTwo">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                Where are the preprocessed <code class="language-bash">*-DATA.npy</code> files?
+                Where are the preprocessed &quot;*-DATA.npy&quot; files?
             </button>
             </h2>
             <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
