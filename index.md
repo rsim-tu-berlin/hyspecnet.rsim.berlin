@@ -105,7 +105,7 @@ For further details about HySpecNet-11K, please see our paper:
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                Are any bands affected by strong water vapor absorption?
+                Is there any hyperspectral image band affected by the strong water vapor absorption in this dataset?
             </button>
             </h2>
             <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">

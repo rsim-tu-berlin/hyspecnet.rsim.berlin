@@ -9,9 +9,9 @@
         <div class="copyright">
             Copyright &copy; {{ site.data.config.name }} 2023. All Rights Reserved.
         </div>
-        <div class="imprint">
+        <!-- <div class="imprint">
             <a href="{{ site.url }}/imprint">Imprint & Data Privacy</a>
-        </div>
+        </div> -->
     </div>
 </footer>
     <!-- End Footer -->
