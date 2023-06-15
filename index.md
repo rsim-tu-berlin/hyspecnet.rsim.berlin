@@ -44,13 +44,13 @@ For further details about HySpecNet-11K, please see our paper:
                     <div class="col-lg-6 col-md-4 col-sm2">
                         <p class="card-text">
                             <i class="fas fa-download mb-2"></i>
-                            Download <a href="https://hyspecnet.rsim.berlin">Hyspec-11K</a>
+                            Download <a href="https://hyspecnet.rsim.berlin">HySpecNet-11K</a>
                         </p>
                     </div>
                     <div class="col-lg-6 col-md-4 col-sm2">
                         <p class="card-text">
                             <i class="fas fa-newspaper  mb-2"></i>
-                            <a href="{{ site.url }}/hyspecnet-11k-description/">Description of Hyspec-11K</a>
+                            <a href="{{ site.url }}/hyspecnet-11k-description/">Description of HySpecNet-11K</a>
                         </p>
                     </div>
                 </div>
@@ -58,7 +58,7 @@ For further details about HySpecNet-11K, please see our paper:
                     <div class="col-lg-6 col-md-4 col-sm2">
                         <p class="card-text">
                             <i class="fas fa-tools  mb-2"></i>
-                            <a href="https://git.tu-berlin.de/rsim/hyspecnet-tools" target="_blank">Hyspec-11K Tools</a>
+                            <a href="https://git.tu-berlin.de/rsim/hyspecnet-tools" target="_blank">HySpecNet-11K Tools</a>
                         </p>
                     </div>
                     <div class="col-lg-6 col-md-4 col-sm2">
