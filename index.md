@@ -26,7 +26,7 @@ For further details about HySpecNet-11K, please see our paper:
 </blockquote>
 
 <section class="download">
-    <h2>Downloads</h2>
+    <h2 id="downloads">Downloads</h2>
     <p>
     If you use HySpecNet-11K in your research, please cite our paper:
     </p>
@@ -75,7 +75,7 @@ For further details about HySpecNet-11K, please see our paper:
 </section>
 
 <section class="faq">
-    <h2>FAQ</h2>
+    <h2 id="faq">FAQ</h2>
     <div class="accordion" id="accordionExample">
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingOne">
@@ -118,7 +118,7 @@ For further details about HySpecNet-11K, please see our paper:
 
 </section>
 
-<section class="license text-center">
+<section class="license text-center" id="license">
     The HySpecNet-11K dataset is licensed under <a href="https://creativecommons.org/publicdomain/zero/1.0/" >CC0 1.0 Universal (CC0 1.0)
 Public Domain Dedication</a>.
 </section>

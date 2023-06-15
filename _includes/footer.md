@@ -1,7 +1,7 @@
 <!-- ======= Footer ======= -->
 <footer class="footer">
     <div class="container d-flex justify-items-center justify-content-between">
-        <div class="contact" >
+        <div class="contact" id="contact">
             Contact: <a href="mailto:{{ site.data.config.email }}">{{ site.data.config.email }}</a>
         </div>
     <!-- </div>

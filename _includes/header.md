@@ -65,7 +65,7 @@
             <li>
               <a
                 class="nav-link scrollto"
-                href="{{ site.baseurl }}{{ menu_item.link }}"
+                href="{{ site.url }}{{ menu_item.link }}"
               >{{ menu_item.title }}</a>
             </li>
             {% endfor %}
