@@ -80,13 +80,13 @@ For further details about HySpecNet-11k, please see our paper:
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingOne">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                How do I unpack the &quot;hyspecnet-11k.tar.gz&quot; file?
+                How do I unpack the &quot;hyspecnet-11k-*.tar.gz&quot; files?
             </button>
             </h2>
             <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
             <div class="accordion-body">
-                To unpack the <code class="language-bash">hyspecnet-11k.tar.gz</code> tarball use the following command:
-                <pre><code class="language-bash">tar -xzf hyspecnet-11k.tar.gz</code></pre>
+                To unpack the <code class="language-bash">hyspecnet-11k-*.tar.gz</code> tarballs use the following command:
+                <pre><code class="language-bash">cat *.tar.gz | tar -ixzv</code></pre>
             </div>
             </div>
         </div>
