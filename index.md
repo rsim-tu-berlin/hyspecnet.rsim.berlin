@@ -44,7 +44,7 @@ For further details about HySpecNet-11k, please see our paper:
                     <div class="col-lg-6 col-md-4 col-sm2">
                         <p class="card-text">
                             <i class="fas fa-download mb-2"></i>
-                            <a href="https://tubcloud.tu-berlin.de/s/LRHMofecPp4pwAy">HySpecNet-11k Download</a>
+                            <a href="https://doi.org/10.5061/dryad.fttdz08zh">HySpecNet-11k Download</a>
                         </p>
                     </div>
                     <div class="col-lg-6 col-md-4 col-sm2">
