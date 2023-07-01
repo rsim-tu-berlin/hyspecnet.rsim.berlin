@@ -280,7 +280,7 @@ h5 {
 }
 
 .patches img {
-  width: 130px;
+  width: calc(100% - 2px);
   margin-bottom: 2px;
 }
 
@@ -362,7 +362,7 @@ blockquote {
   }
 
   .patches img {
-    width: 40px;
+    width: calc(100% - 2px);
     margin-bottom: 2px;
   }
 

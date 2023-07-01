@@ -76,7 +76,14 @@
     <section class="patches justify-items-center">
       <div class="container">
         <div class="row">
-        {% for i in (1..20) %}
+        {% for i in (1..10) %}
+            <div class="col m-0 p-0">
+                <img src="{{ site.url }}/../assets/images/thumbnails/{{ i }}.jpg">
+            </div>
+        {% endfor %}
+        </div>
+        <div class="row">
+        {% for i in (11..20) %}
             <div class="col m-0 p-0">
                 <img src="{{ site.url }}/../assets/images/thumbnails/{{ i }}.jpg">
             </div>
