@@ -22,7 +22,7 @@ We provide predefined splits obtained by randomly dividing HySpecNet into: i) a 
 For further details about HySpecNet-11k, please see our paper:
 
 <blockquote>
-    M. H. P. Fuchs and B. Demir, "<a href="https://arxiv.org/abs/2306.00385">HySpecNet-11k: a Large-Scale Hyperspectral Dataset for Benchmarking Learning-Based Hyperspectral Image Compression Methods,</a>" IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium, Pasadena, CA, USA, 2023, pp. 1779-1782, doi: 10.1109/IGARSS52108.2023.10283385.
+    M. H. P. Fuchs and B. Demir, "<a href="https://arxiv.org/abs/2306.00385">HySpecNet-11k: a Large-Scale Hyperspectral Dataset for Benchmarking Learning-Based Hyperspectral Image Compression Methods,</a>" IEEE International Geoscience and Remote Sensing Symposium, Pasadena, CA, USA, 2023, pp. 1779-1782, doi: 10.1109/IGARSS52108.2023.10283385.
 </blockquote>
 
 <section class="download">
@@ -31,7 +31,7 @@ For further details about HySpecNet-11k, please see our paper:
     If you use HySpecNet-11k in your research, please cite our paper:
     </p>
     <blockquote>
-        M. H. P. Fuchs and B. Demir, "<a href="https://arxiv.org/abs/2306.00385">HySpecNet-11k: a Large-Scale Hyperspectral Dataset for Benchmarking Learning-Based Hyperspectral Image Compression Methods,</a>" IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium, Pasadena, CA, USA, 2023, pp. 1779-1782, doi: 10.1109/IGARSS52108.2023.10283385.
+        M. H. P. Fuchs and B. Demir, "<a href="https://arxiv.org/abs/2306.00385">HySpecNet-11k: a Large-Scale Hyperspectral Dataset for Benchmarking Learning-Based Hyperspectral Image Compression Methods,</a>" IEEE International Geoscience and Remote Sensing Symposium, Pasadena, CA, USA, 2023, pp. 1779-1782, doi: 10.1109/IGARSS52108.2023.10283385.
     </blockquote>
     <div class="h-100 d-flex align-items-center justify-content-center">
         <div class="card downloads">
