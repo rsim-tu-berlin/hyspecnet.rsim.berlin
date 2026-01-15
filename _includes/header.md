@@ -90,6 +90,9 @@
         {% endfor %}
         </div>
       </div>
+      <div style="text-align:center; font-size:0.9rem; color:#666; margin-top:0.5rem;">
+        EnMAP data ©DLR [2022] All rights reserved.
+      </div>
     </section>
     <section class="logos">
       <div class="container">
