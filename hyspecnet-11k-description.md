@@ -18,7 +18,7 @@ For further details about HySpecNet-11k, please see our paper:
 
 > M. H. P. Fuchs and B. Demіr, "[HySpecNet-11k: A Large-Scale Hyperspectral Dataset for Benchmarking Learning-Based Hyperspectral Image Compression Methods](https://arxiv.org/abs/2306.00385)", IEEE International Geoscience and Remote Sensing Symposium, Pasadena, California, 2023.
 
-The HySpecNet-11k dataset is licensed under the [EnMAP Data License](https://www.enmap.org/data/resources/EnMAP_Data_License.pdf) license.
+The HySpecNet-11k dataset is licensed under the [EnMAP Data License](https://www.enmap.org/data/resources/EnMAP_Data_License.pdf).
 
 <div style="page-break-after: always;"></div>
 
