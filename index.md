@@ -131,5 +131,5 @@ For further details about HySpecNet-11k, please see our paper:
 </section>
 
 <section class="license text-center" id="license">
-    The HySpecNet-11k dataset is licensed under the <a href="https://www.enmap.org/data/resources/EnMAP_Data_License.pdf" >EnMAP Data License</a>.
+    The HySpecNet-11k dataset is licensed under the <a href="https://www.enmap.org/data/resources/EnMAP_Data_License.pdf" >License Agreement on the Use of EnMAP Data</a>.
 </section>
