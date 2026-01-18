@@ -1,5 +1,15 @@
 {% include header.md %}
 
+{% if page.banner %}
+<div class="site-banner">
+  <div class="container">
+    <div class="banner-content">
+      {{ page.banner }}
+    </div>
+  </div>
+</div>
+{% endif %}
+
 <section class="section">
   <div class="container">
     <div class="row">
