@@ -2,7 +2,7 @@
 layout: index
 title: Hyspecnet
 permalink: /
-banner: "⚠️ ⚠️ ⚠️ <br> Due to the issues related to the EnMAP data license, HySpectNet is not available to be downloaded at the moment. <br>We are in discussion with DLR to release it via the EOC Geoservice. <br>We are sorry for the inconvenience."
+banner: "⚠️ ⚠️ ⚠️ <br> Due to the issues related to the EnMAP data license, HySpecNet is not available to be downloaded at the moment. <br>We are in discussion with DLR to release it via the EOC Geoservice. <br>We are sorry for the inconvenience."
 ---
 
 ## About HySpecNet-11k
