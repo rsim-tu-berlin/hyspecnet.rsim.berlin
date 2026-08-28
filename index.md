@@ -2,7 +2,7 @@
 layout: index
 title: Hyspecnet
 permalink: /
-banner: "🎉 🎉 🎉 <br> HySpecNet-11k is available to be downloaded again on <a href="https://code-de.org/en/portfolio/?id=9e500b5d-51be-4b85-87c5-a8d3a9db55ec" target="_blank">CODE-DE-Lab</a>"
+banner: "🎉 🎉 🎉 <br> HySpecNet-11k is available to be downloaded again."
 ---
 
 ## About HySpecNet-11k
