@@ -2,7 +2,7 @@
 layout: index
 title: Hyspecnet
 permalink: /
-banner: "⚠️ ⚠️ ⚠️ <br> Due to the issues related to the EnMAP data license, HySpecNet is not available to be downloaded at the moment. <br>We are in discussion with DLR to release it via the EOC Geoservice. <br>We are sorry for the inconvenience."
+banner: "🎉 🎉 🎉 <br> HySpecNet-11k is available to be downloaded again on <a href="https://code-de.org/en/portfolio/?id=9e500b5d-51be-4b85-87c5-a8d3a9db55ec" target="_blank">CODE-DE-Lab</a>"
 ---
 
 ## About HySpecNet-11k
@@ -45,7 +45,7 @@ For further details about HySpecNet-11k, please see our paper:
                     <div class="col-lg-6 col-md-4 col-sm2">
                         <p class="card-text">
                             <i class="fas fa-download mb-2"></i>
-                            <a href="TODO">HySpecNet-11k Download</a>
+                            <a href="https://code-de.org/en/portfolio/?id=9e500b5d-51be-4b85-87c5-a8d3a9db55ec">HySpecNet-11k Download</a>
                         </p>
                     </div>
                     <div class="col-lg-6 col-md-4 col-sm2">
